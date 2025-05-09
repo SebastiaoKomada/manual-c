@@ -2,7 +2,7 @@
 
 ## Conteúdo Principal do Manual
 
-O manual está estruturado para guiar o aprendiz passo a passo, cobrindo os seguintes tópicos principais (conforme detalhado em `linguagem-c.md` e nos apêndices):
+O manual está estruturado, cobrindo os seguintes tópicos principais (conforme detalhado em `linguagem-c.md` e nos apêndices):
 
 1.  **Introdução à Programação e à Linguagem C:**
     *   O que é programação?
