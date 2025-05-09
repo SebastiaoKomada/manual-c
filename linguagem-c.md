@@ -36,7 +36,7 @@ O GCC (GNU Compiler Collection) é um compilador muito popular e gratuito.
 *   **IDE (Ambiente de Desenvolvimento Integrado):** Combina um editor de texto com ferramentas de compilação, depuração e outras utilidades (ex: Code::Blocks, Dev-C++, CLion, ou VS Code com extensões C/C++).
 *   **Sugestão para iniciantes:**
     *   **VS Code:** É leve, gratuito, multiplataforma e altamente configurável com a extensão "C/C++" da Microsoft.
-    *   **Compilador Online:** Para os primeiros passos, o link que você forneceu no PDF (`https://www.programiz.com/c-programming/online-compiler/`) é uma ótima opção, pois não requer instalação.
+    *   **Compilador Online:**  (`https://www.programiz.com/c-programming/online-compiler/`) é uma ótima opção, pois não requer instalação.
 
 #### Seu Primeiro Programa: "Olá, Mundo!"
 Este é o programa tradicional para começar em qualquer nova linguagem.
